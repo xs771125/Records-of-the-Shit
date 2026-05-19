@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bamboo slip background -->
+    <path
+        android:fillColor="#E8D5A3"
+        android:pathData="M24,20 L84,20 C88,20 90,22 90,26 L90,82 C90,86 88,88 84,88 L24,88 C20,88 18,86 18,82 L18,26 C18,22 20,20 24,20 Z"/>
+    <!-- Bamboo lines -->
+    <path
+        android:fillColor="#C4A265"
+        android:pathData="M30,20 L30,88 M42,20 L42,88 M54,20 L54,88 M66,20 L66,88 M78,20 L78,88"
+        android:strokeWidth="0.5"
+        android:strokeColor="#BF9B5A"/>
+    <!-- 屎 character (simplified) -->
+    <path
+        android:fillColor="#4A3728"
+        android:pathData="M38,38 L70,38 L70,56 L38,56 Z M42,42 L66,42 M46,46 L62,46 M50,50 L58,50"/>
+    <!-- Bamboo leaf accent -->
+    <path
+        android:fillColor="#6B8E5A"
+        android:pathData="M54,60 L52,68 L56,68 Z M62,62 L60,72 L64,72 Z"/>
+</vector>
